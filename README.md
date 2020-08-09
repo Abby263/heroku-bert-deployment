@@ -19,3 +19,6 @@ http://localhost:5000
 
 ### Screenshot
 ![Screenshot](https://github.com/thehetpandya/heroku-bert-deployment/blob/master/images/screenshot.PNG?raw=true)
+
+### License
+Please check `LICENSE` for more details.
